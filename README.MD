@@ -1,6 +1,6 @@
 # Stock Price Prediction using LSTM/Bi-LSTM on Yahoo-Finance Data 📈🤖
 
-![](images/lstm-bilstm.jpeg)
+![](images/lstm-bilstm.jpg)
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
