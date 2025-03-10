@@ -1,5 +1,7 @@
 # Stock Price Prediction using LSTM/Bi-LSTM on Yahoo-Finance Data 📈🤖
 
+![](images/lstm-bilstm.jpeg)
+
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -51,7 +53,7 @@ This project applies advanced deep learning models—**LSTM** and **Bidirectiona
 ## Installation 💻  
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
+   git clone https://github.com/VISHRUT225/Stock-Price-Prediction-LSTM-BiLSTM.git
    cd stock-price-prediction
    ```
 
